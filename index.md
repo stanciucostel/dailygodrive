@@ -8,7 +8,7 @@ Email: stanciu.co@gmail.com
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Privacy Policy</title>
+  Privacy Policy
 </head>
 <body>
 <h1>Privacy Policy</h1>
